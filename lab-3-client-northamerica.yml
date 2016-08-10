@@ -1,2 +1,4 @@
 ---
-lucky-word: North American Irish
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
